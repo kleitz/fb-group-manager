@@ -17,7 +17,6 @@ use Facebook\FacebookPermissionException;
  
 // init app with app id (APPID) and secret (SECRET)
 FacebookSession::setDefaultApplication('671542646214914','3df0bd4144102eda1623babc3dcf23cc');
-$session = new FacebookSession('CAACEdEose0cBAHhZCKCPVZCXub33HzB6rZCLjr6JTZAzH2xTPRM5nlSFKD3cJKzXc6SsTuKcsTPQYDF4ZCsPieGERFVfuZBMOoJwxKuI4ZAK1JiKYotsUYCCnTPBZCVmwYfhToup9ZBFXbC6gC2ZAl1wGYcxAB8647HZA1J5gLMlKFodSfLZA7BOvazZCVFrsR6EdZADN7d22gHcPhSjsY2arJD77b3OPsZBPWWhl4ZD');
 
 session_start();
 
